@@ -1,4 +1,4 @@
-[DEMO](https://rtk-quey-example.netlify.app/ "DEMO")
+[DEMO](https://rtk-query-simple-example.netlify.app/ "DEMO")
 
 React toolkit example.
 
